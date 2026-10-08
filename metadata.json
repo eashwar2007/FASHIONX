@@ -1,0 +1,7 @@
+{
+  "name": "FASHIONX — AI Personal Stylist",
+  "description": "Next-gen AI personal stylist and wardrobe assistant offering outfit analysis, color harmony ratings, and personalized fashion recommendations.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
